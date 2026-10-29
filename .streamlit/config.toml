@@ -1,0 +1,21 @@
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
+
+# Cores do manual de identidade Adrilar. A fonte da marca (Metrisch) não é
+# livre; Lexend é a geométrica larga mais próxima no Google Fonts.
+[theme]
+base = "light"
+primaryColor = "#28347c"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#eef0f7"
+textColor = "#1d2345"
+borderColor = "#dfe2ec"
+font = "Lexend:https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600&display=swap"
+headingFontWeights = 500
+baseRadius = "small"
+
+[theme.sidebar]
+backgroundColor = "#f5f6fa"

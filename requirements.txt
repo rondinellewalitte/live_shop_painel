@@ -1,0 +1,6 @@
+streamlit>=1.50
+psycopg[binary]>=3.2
+python-dotenv>=1.0
+pandas>=2.2
+altair>=5.4
+tzdata

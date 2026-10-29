@@ -1,0 +1,12 @@
+# Credenciais do banco e senha da configuração
+.env
+
+# Banco local com as metas (dado, não código)
+metas_live.db
+metas_live.db-journal
+
+# Manual de marca (arquivo grande; os logos usados estão em static/)
+MANUAL_ADRILAR.pdf
+
+__pycache__/
+*.pyc
